@@ -5,7 +5,7 @@
         <v-card>
           <v-card-title>Demo Title</v-card-title>
           <v-card-text>
-            Test
+            {{ $auth }}
           </v-card-text>
         </v-card>
       </v-col>

@@ -27,7 +27,9 @@ module.exports = {
 
   ],
   axios: {},
-  auth: {},
+  auth: {
+
+  },
   vuetify: {
     customVariables: ["~/assets/scss/variables.scss"],
     optionsPath: "vuetify.options.js",
